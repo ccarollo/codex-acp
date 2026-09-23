@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.13.2](https://github.com/agentclientprotocol/codex-acp/compare/v1.13.1...v1.13.2) (2026-09-23)
+
+
+### Bug Fixes
+
+* resolve ACP v1 conformance failures found by acp-tck ([#536](https://github.com/agentclientprotocol/codex-acp/issues/536)) ([1cc6223](https://github.com/agentclientprotocol/codex-acp/commit/1cc62233fb6f2abde7cadd518a53de9d0826ea77))
+* restore read-only mode and clarify access presets ([#480](https://github.com/agentclientprotocol/codex-acp/issues/480)) ([7fee150](https://github.com/agentclientprotocol/codex-acp/commit/7fee150a55098f7140a03907fec5f11edbe45086))
+
 ## [1.13.1](https://github.com/agentclientprotocol/codex-acp/compare/v1.13.0...v1.13.1) (2026-09-23)
 
 
